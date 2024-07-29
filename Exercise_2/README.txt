@@ -21,5 +21,5 @@ A Java application to manage the daily schedule of an astronaut, including tasks
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sherin-anits/astronaut-schedule-organizer.git
+   git clone https://github.com/sherin-anits/ei_assignments.git
    cd astronaut-schedule-organizer
