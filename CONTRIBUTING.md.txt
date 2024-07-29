@@ -1,0 +1,11 @@
+# Contributing to Astronaut Daily Schedule Organizer
+
+Thank you for considering contributing to this project! We welcome contributions from the community.
+
+## How to Contribute
+
+1. **Fork the repository** on GitHub.
+2. **Clone your fork** of the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/astronaut-schedule-organizer.git
+   cd astronaut-schedule-organizer
